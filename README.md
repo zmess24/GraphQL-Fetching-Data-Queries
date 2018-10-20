@@ -4,7 +4,7 @@
 
 This tutorial was taken from Stephen Grider's [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course/).
 
-This application's sole purpose is serving raw data via basic GraphQl queries. The server being used, GraphQL Express, is referred to as the reference implementation of GraphQL, is the official implementation that FaceBook maintains.
+This application's sole purpose is serving raw data via basic GraphQL queries. The server being used, GraphQL Express, is referred to as the reference implementation of GraphQL and is the official implementation that FaceBook maintains.
 
 ## Setup
 
